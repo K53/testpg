@@ -1,5 +1,5 @@
 def aaa():
-    return 123
+    return 12344
 
 def main():
     aaa()
